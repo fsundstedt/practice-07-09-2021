@@ -1,0 +1,13 @@
+C:\Users\Frank\source\repos\consolenotes\bin\Debug\netcoreapp3.1\consolenotes.exe
+C:\Users\Frank\source\repos\consolenotes\bin\Debug\netcoreapp3.1\consolenotes.deps.json
+C:\Users\Frank\source\repos\consolenotes\bin\Debug\netcoreapp3.1\consolenotes.runtimeconfig.json
+C:\Users\Frank\source\repos\consolenotes\bin\Debug\netcoreapp3.1\consolenotes.runtimeconfig.dev.json
+C:\Users\Frank\source\repos\consolenotes\bin\Debug\netcoreapp3.1\consolenotes.dll
+C:\Users\Frank\source\repos\consolenotes\bin\Debug\netcoreapp3.1\consolenotes.pdb
+C:\Users\Frank\source\repos\consolenotes\obj\Debug\netcoreapp3.1\consolenotes.csprojAssemblyReference.cache
+C:\Users\Frank\source\repos\consolenotes\obj\Debug\netcoreapp3.1\consolenotes.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\consolenotes\obj\Debug\netcoreapp3.1\consolenotes.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\consolenotes\obj\Debug\netcoreapp3.1\consolenotes.AssemblyInfo.cs
+C:\Users\Frank\source\repos\consolenotes\obj\Debug\netcoreapp3.1\consolenotes.dll
+C:\Users\Frank\source\repos\consolenotes\obj\Debug\netcoreapp3.1\consolenotes.pdb
+C:\Users\Frank\source\repos\consolenotes\obj\Debug\netcoreapp3.1\consolenotes.genruntimeconfig.cache
